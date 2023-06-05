@@ -4,6 +4,8 @@
 
 - ✨Indumentaria GZ ✨
 
+pagina: https://resume-articulos.netlify.app/
+
 ## Tecnologías
 - React version
 - Javascript
